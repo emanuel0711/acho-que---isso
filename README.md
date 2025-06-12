@@ -17,7 +17,7 @@ Um site fictício para uma cafeteria acolhedora chamada **Café Aroma**, inspira
 
 - HTML5  
 - CSS3  
-- Flexbox para o layout  
+- Flexbox
 
 ---
 
